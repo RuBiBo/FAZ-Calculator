@@ -1,4 +1,4 @@
-// ==UserScript==
+﻿// ==UserScript==
 // @id		faz-stock-market-game-calculator
 // @name        FAZ: Stock market game calculator
 // @namespace   http://userscripts.org/scripts/show/320093
@@ -7,7 +7,7 @@
 // @match      	http://boersenspiel.faz.net/a/depot.cgi
 // @updateURL	http://userscripts.org/scripts/source/320093.user.js
 // @downloadURL	http://userscripts.org/scripts/source/320093.user.js
-// @version     0.7.0.0 Alpha
+// @version     1.0.0.0 
 // ==/UserScript==
 var benchmark = new Object();
 benchmark.start =  new Date().getTime();
